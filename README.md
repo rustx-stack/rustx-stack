@@ -1,5 +1,4 @@
 olá, sou o André.
-estudante de análise e desenvolvimento de sistemas e
+Formado recentemente em  análise e desenvolvimento de sistemas pela FIAP e
 amante da programação/hacking.
-Atualmente sou aluno do quarto semestre da FIAP,com 20 
-anos.
+Atualmente cursando cibersegurança na FIAP. 
